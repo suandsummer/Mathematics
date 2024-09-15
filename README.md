@@ -1,6 +1,6 @@
 # Course Learning
 
-## JLUJLUJLU
+## JLU
 
 ### NumericalAnalysis
 
